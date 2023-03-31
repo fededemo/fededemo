@@ -6,5 +6,5 @@
 - 🌱 I'm continuously learning and staying updated with the latest trends in AI, Big Data, and related fields.
 - 🤝 I'm looking to collaborate on projects that leverage the power of data and AI to drive impactful results, particularly those that involve data augmentation and synthetic data generation techniques.
 - 📫 Feel free to reach out to me at fededemo@gmail.com for any discussions, collaborations, or queries related to data, AI, Deep Learning, or economics.
-🎉 Fun Fact: When I'm not working or studying, I enjoy playing strategy board games and spending quality time with friends, family, and my future wife (we're getting married in June!).
+- 🎉 Fun Fact: When I'm not working or studying, I enjoy playing strategy board games and spending quality time with friends, family, and my future wife (we're getting married in June!).
 
